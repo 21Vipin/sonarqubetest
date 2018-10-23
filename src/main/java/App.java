@@ -8,7 +8,7 @@ public class App {
         return "Hello world.";
     }
     public String getData(){return "Data created. test";}
-    public String getData1(){return "Data created.";}
+    public String getData1(){return "Data created. test";}
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
