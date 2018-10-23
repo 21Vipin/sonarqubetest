@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-23T09:06:06" hostname="VipinMakde" time="0.043">
+<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-23T14:13:06" hostname="VipinMakde" time="0.092">
   <properties/>
-  <testcase name="testGetData" classname="AppTest" time="0.038"/>
-  <testcase name="testAppHasAGreeting" classname="AppTest" time="0.001"/>
+  <testcase name="testGetData" classname="AppTest" time="0.081"/>
+  <testcase name="testAppHasAGreeting" classname="AppTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

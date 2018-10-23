@@ -15,4 +15,10 @@ public class AppTest {
         App app = new App();
         assertEquals("Data created.",app.getData());
     }
+
+    @Test
+    public void testGetData1() {
+        App app = new App();
+        assertEquals("Data created.",app.getData1());
+    }
 }

@@ -2,5 +2,5 @@ projectKey=sonarqube-scanner-gradle
 serverUrl=http://localhost:9000
 serverVersion=7.1.0.11001
 dashboardUrl=http://localhost:9000/dashboard/index/sonarqube-scanner-gradle
-ceTaskId=AWagE-_-dL95wfKurRLZ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWagE-_-dL95wfKurRLZ
+ceTaskId=AWahRwWHdL95wfKurRLf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWahRwWHdL95wfKurRLf
