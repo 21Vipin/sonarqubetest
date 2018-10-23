@@ -7,7 +7,7 @@ public class App {
     public String getGreeting() {
         return "Hello world.";
     }
-    public String getData(){return "Data created.";}
+    public String getData(){return "Data created. test";}
     public String getData1(){return "Data created.";}
 
     public static void main(String[] args) {
