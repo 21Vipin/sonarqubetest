@@ -13,12 +13,18 @@ public class AppTest {
     @Test
     public void testGetData() {
         App app = new App();
-        assertEquals("Data created. test",app.getData());
+        assertEquals("Hello World",app.getData());
     }
 
     @Test
     public void testGetData1() {
         App app = new App();
-        assertEquals("Data created. test",app.getData1());
+        assertEquals("Hello World",app.getData1());
     }
+
+   @Test
+    public void testGetData2() {
+       App app = new App();
+       assertNotEquals("Data created. test", app.getData2());
+   }
 }
