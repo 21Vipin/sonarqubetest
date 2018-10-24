@@ -9,9 +9,12 @@ public class App {
     }
     public String getData(){return "Data created. test";}
     public String getData1(){return "Data created. test";}
+    public String getData2(){return "Data created. test";}
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
         System.out.println(new App().getData());
+        System.out.println(new App().getData1());
+        System.out.println(new App().getData2());
     }
 }
